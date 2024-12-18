@@ -1,0 +1,10 @@
+# Ignore native files
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+.idea/** linguist-vendored
+*.gradle linguist-vendored
+*.pbxproj linguist-vendored
+*.xcworkspace linguist-vendored
