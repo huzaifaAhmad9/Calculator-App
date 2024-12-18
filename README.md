@@ -14,7 +14,7 @@ The **Calculator App** is a simple yet functional Flutter application that perfo
 
 ## 📦 Installation
 
-Follow these steps to get started with the Corona Tracker App:
+Follow these steps to get started with the Calculator App:
 
 1. **Clone the repository**:
    https://github.com/huzaifaAhmad9/Calculator-App.git
